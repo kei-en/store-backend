@@ -65,7 +65,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ## Related Projects
 
-- [frontend](../frontend/): Contains frontend logic that consumes data from this project
+- [frontend](https://github.com/kei-en/store/tree/main/frontend): Contains frontend logic that consumes data from this project
 
 ## Author
 
